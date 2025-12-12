@@ -44,7 +44,7 @@
 }
 
 .new-price {
- color: seagreen;
+ color: rgb(44, 160, 95);
  font-size: 23px;
  font-weight:700;
 }
@@ -59,7 +59,7 @@
 .cart-btn {
  width:100%;
  padding: 13px;
- background: forestgreen;
+ background: rgb(14, 219, 14);
  border:none;
  color: white;
  border-radius:7px;
@@ -70,3 +70,4 @@
 .cart-btn:hover{
  background: darkgreen;
 }
+
